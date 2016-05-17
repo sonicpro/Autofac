@@ -1,1 +1,2 @@
 D:\MOE\SourcesCS\Autofac\SSotnik\FilderLister\bin\Debug\FilderLister.exe.config
+D:\SourcesCS\Autofac\SSotnik\FilderLister\bin\Debug\FilderLister.exe.config

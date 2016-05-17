@@ -1,0 +1,8 @@
+D:\SourcesCS\Autofac\SSotnik\FilderLister\obj\Debug\FolderLister.csprojResolveAssemblyReference.cache
+D:\SourcesCS\Autofac\SSotnik\FilderLister\bin\Debug\FilderLister.exe.config
+D:\SourcesCS\Autofac\SSotnik\FilderLister\bin\Debug\FilderLister.exe
+D:\SourcesCS\Autofac\SSotnik\FilderLister\bin\Debug\FilderLister.pdb
+D:\SourcesCS\Autofac\SSotnik\FilderLister\bin\Debug\Autofac.dll
+D:\SourcesCS\Autofac\SSotnik\FilderLister\bin\Debug\Autofac.xml
+D:\SourcesCS\Autofac\SSotnik\FilderLister\obj\Debug\FilderLister.exe
+D:\SourcesCS\Autofac\SSotnik\FilderLister\obj\Debug\FilderLister.pdb
