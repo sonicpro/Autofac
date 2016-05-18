@@ -14,3 +14,11 @@ D:\SourcesCS\Autofac\SSotnik\FolderLister\bin\Debug\FolderLister.pdb
 D:\SourcesCS\Autofac\SSotnik\FolderLister\bin\Debug\Autofac.dll
 D:\SourcesCS\Autofac\SSotnik\FolderLister\bin\Debug\Autofac.xml
 D:\SourcesCS\Autofac\SSotnik\FolderLister\obj\Debug\FolderLister.csprojResolveAssemblyReference.cache
+D:\MOE\SourcesCS\Autofac\SSotnik\FolderLister\bin\Debug\FolderLister.exe.config
+D:\MOE\SourcesCS\Autofac\SSotnik\FolderLister\obj\Debug\FolderLister.exe
+D:\MOE\SourcesCS\Autofac\SSotnik\FolderLister\obj\Debug\FolderLister.pdb
+D:\MOE\SourcesCS\Autofac\SSotnik\FolderLister\obj\Debug\FolderLister.csprojResolveAssemblyReference.cache
+D:\MOE\SourcesCS\Autofac\SSotnik\FolderLister\bin\Debug\FolderLister.exe
+D:\MOE\SourcesCS\Autofac\SSotnik\FolderLister\bin\Debug\FolderLister.pdb
+D:\MOE\SourcesCS\Autofac\SSotnik\FolderLister\bin\Debug\Autofac.dll
+D:\MOE\SourcesCS\Autofac\SSotnik\FolderLister\bin\Debug\Autofac.xml
